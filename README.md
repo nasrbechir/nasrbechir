@@ -20,7 +20,7 @@ class About extends Me
         return [
             PHP::class,
             Javascript::class,
-	        Symfony::class,
+	    Symfony::class,
             Laravel::class,
             Wordpress::class,
             ReactJS::class,
